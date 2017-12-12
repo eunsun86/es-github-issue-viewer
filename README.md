@@ -5,8 +5,8 @@
 깃헙 이슈를 볼수 있는 웹을 만드는 프로젝트입니다.
 깃헙 API를 이용하여 이슈 정보를 읽어오고 다음 링크들을 참고하시면 됩니다.
 
-- [GITHUB API Documentation](http://developer.github.com/v3/issues/)
-- [GITHUB ISSUES DATA](https://api.github.com/repos/npm/npm/issues)
+- [Github API Documentation](http://developer.github.com/v3/issues/)
+- [Github issues data](https://api.github.com/repos/npm/npm/issues)
 
 ## 제출 필수 사항
 
@@ -18,7 +18,7 @@
 
 ### 기본 페이지
 
-기본 페이지는 깃헙 이슈 리스트를 보여주어야 합니다. 이슈가 많다면, 페이지별로 나뉘어서 볼 수 있어야 합니다. 보통 큰 프로젝트들은 수백개의 이슈들이 있습니다. 그럴 경우, 모든 이슈들을 찾아볼 수 있어야 합니다.
+기본 페이지는 위에 주어진 [npm 프로젝트의 깃헙 이슈 리스트](https://api.github.com/repos/npm/npm/issues)를 보여주어야 합니다. 이슈가 많다면, 페이지별로 나뉘어서 볼 수 있어야 합니다. 보통 큰 프로젝트들은 수백개의 이슈들이 있습니다. 그럴 경우, 모든 이슈들을 찾아볼 수 있어야 합니다.
 
 기본 페이지에서 각각의 이슈는 다음 정보들을 보여주어야 합니다.
 - Issue number와 title
